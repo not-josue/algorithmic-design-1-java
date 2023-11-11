@@ -21,24 +21,24 @@ Write a program that takes in a positive number and draws a horizontal triangle 
 
 - The program must draw the triangle in the console using asterisks ("*").
 - The triangle drawn must start with a single asterisk, then increase the number of asterisks line-by-line until the size is reached, and finally decrease the number of asterisks line-by-line until a single asterisk remains.
-- An example would be if the user inputs "4", then the triangle below would be drawn,
-*
-**
-***
-****
-***
-**
-*
+- An example would be if the user inputs "4", then the triangle below would be drawn,  
+&  
+&&  
+&&&  
+&&&&  
+&&&  
+&&  
+&
 
 ## Example Dialogue
 
-Welcome to Triangle Maker!  Enter the size of the triangle.
-3
+Welcome to Triangle Maker!  Enter the size of the triangle.  
+3  
 
-*
-**
-***
-**
-*
+&  
+&&  
+&&&  
+&&  
+&  
 
 DONE!
