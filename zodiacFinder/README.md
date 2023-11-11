@@ -8,7 +8,7 @@ Write a program that determines a person's astrological zodiac sign based on the
 
 ### Input
 
-- User Inputs a Date as two separate whole number values. (10pts)
+- User Inputs a Date as two separate whole number values.
 - The user must be prompted to enter the month followed by the day.
 - Both of these must be the numeric values representing the month and day, and this detail must be explained to the user.
 
