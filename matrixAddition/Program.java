@@ -5,10 +5,6 @@
 import java.util.Scanner;
 public class Program {
 
-	// constants
-
-	public static final int NUMBEROFMATRICES = 2;
-
 	// methods
 
 	// method for creating a multi-dimensional array/matrix
@@ -109,7 +105,7 @@ public class Program {
 			System.exit(0);
 		}
 
-		// declare a matrix with the added values
+		// initialize a matrix with the added values
 		int[][] sumMatrix = addMatrices(firstMatrix, secondMatrix);
 
 		// print the matrices that were created
