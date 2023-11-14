@@ -4,9 +4,7 @@
 
 Write a program that creates two matrices of whole numbers and then adds them!
 
-$$ {\left\lbrack \matrix{4 & 1 \cr 8 & 7} \right\rbrack} 
-+ \left\lbrack \matrix{1 & 3 \cr 2 & 4} \right\rbrack
-= \left\lbrack \matrix{5 & 4 \cr 10 & 11} \right\rbrack
+$$ {\left\lbrack \matrix{4 & 1 \cr 8 & 7} \right\rbrack} + \left\lbrack \matrix{1 & 3 \cr 2 & 4} \right\rbrack= \left\lbrack \matrix{5 & 4 \cr 10 & 11}\right\rbrack
 $$
 
 ## Requirements
@@ -69,6 +67,6 @@ Enter the value at index 1 1
 +  
 1 3  
 2 4  
-=  
+\=  
 5 4  
 10 11
