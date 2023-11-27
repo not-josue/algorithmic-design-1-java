@@ -46,94 +46,49 @@ N, S W, E, NW, NE, SW, SE
 
 ## Example Dialogue:
 Welcome to Pothole Driving!  Get home while avoiding potholes!
-
 X_________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 _________^  
 Enter either a -1, 0, or 1 in the X or 9 to quit  
-
 1  
-
 Enter either a -1,0, or 1 in the Y  
-
 1  
-
 __________  
-
 _X________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 _________^  
-
 Enter either a -1, 0, or 1 in the X or 9 to quit  
-
 0  
-
 Enter either a -1,0, or 1 in the Y  
-
 1  
-
 __________  
-
 __________  
-
 _X________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 __________  
-
 _________^  
-
 Enter either a -1, 0, or 1 in the X or 9 to quit  
-
 -1  
-
 Enter either a -1,0, or 1 in the Y  
-
 1  
-
 OH NO! POTHOLE!  
-
 Would you like to play again?  
-
 No  
-
 Goodbye!
