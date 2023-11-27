@@ -45,7 +45,8 @@ N, S W, E, NW, NE, SW, SE
 - Otherwise, the program must terminate.
 
 ## Example Dialogue:
-Welcome to Pothole Driving!  Get home while avoiding potholes!
+```
+Welcome to Pothole Driving!  Get home while avoiding potholes!  
 X_________  
 __________  
 __________  
@@ -92,3 +93,4 @@ OH NO! POTHOLE!
 Would you like to play again?  
 No  
 Goodbye!
+```
