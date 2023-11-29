@@ -6,6 +6,7 @@ Entry level Java programs that can be found in beginner university computer scie
 
 - [Below Average Temperature](https://github.com/not-josue/algorithmic-design-1-java/tree/main/belowAvgTemp)
 - [Binary Changer](https://github.com/not-josue/algorithmic-design-1-java/tree/main/binaryChanger)
+- [Date and Time](https://github.com/not-josue/algorithmic-design-1-java/tree/main/dateAndTime)
 - [Matrix Addition](https://github.com/not-josue/algorithmic-design-1-java/tree/main/matrixAddition)
 - [Pothole Driving](https://github.com/not-josue/algorithmic-design-1-java/tree/main/potholeDriving)
 - [Rock, Paper, Scissors](https://github.com/not-josue/algorithmic-design-1-java/tree/main/rockPaperScissors)
