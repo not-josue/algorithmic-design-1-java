@@ -4,6 +4,7 @@ Entry level Java programs that can be found in beginner university computer scie
 
 ## Programs
 
+- [Apple Maker](https://github.com/not-josue/algorithmic-design-1-java/tree/main/appleMaker)
 - [Below Average Temperature](https://github.com/not-josue/algorithmic-design-1-java/tree/main/belowAvgTemp)
 - [Binary Changer](https://github.com/not-josue/algorithmic-design-1-java/tree/main/binaryChanger)
 - [Date and Time](https://github.com/not-josue/algorithmic-design-1-java/tree/main/dateAndTime)

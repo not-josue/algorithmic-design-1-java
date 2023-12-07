@@ -1,8 +1,8 @@
-# Sorting Rectangles
+# Pothole Driving
 
 ## Objective
 
-Write a program where the user creates and sorts a collection of rectangles in a variety of ways based on their area, and gives the average area, minimum area, and maximum area.
+Write a game where you are a car, represented by the character 'X', trying to avoid pots holes in order to get home. As visibility is very low, the car can only move one space at a time, and if the space is a pothole, then the player loses, and the game is over. However, if they manage to reach home, the player won, and the game is over.
 
 ## Requirements
 
