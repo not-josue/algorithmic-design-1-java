@@ -18,12 +18,12 @@ Practice object-oriented principles by building a bicycle out of multiple object
 - Diameter: This represents the diameter of the wheel and must be between 16in to 55in inclusively. Its default value is 16.
 - Width: This represents the width of the wheel and must be between 1in to 2.5in inclusively. Its default value is 1.
 
-### Constructors
+#### Constructors
 
 - Default: Must set all properties to their default values mentioned in the "Instance Variables" section.
 - Parameterized: Must take in a parameter for each instance variable in the order named above. This means the first instance variable is the first parameter, the second instance variable is the second parameter, and so on. This must set the instance variable values only if the given values are valid, but otherwise it must set the instance variables to their default values.
 
-### Methods
+#### Methods
 
 - Accessors and Mutators for the instance variables
     - Make sure in the mutators check for valid values named in the "Instance Variables" Section.
