@@ -58,7 +58,7 @@ Practice object-oriented principles by building a bicycle out of multiple object
 // Where values in "<<>>" correspond to the instance variable values.
 ```
 
-### Create a Class called Bicyle
+### Create a Class called Bicycle
 
 #### Instance Variables
 
