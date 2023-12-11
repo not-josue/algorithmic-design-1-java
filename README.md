@@ -10,6 +10,7 @@ Entry level Java programs that can be found in beginner university computer scie
 - [Binary Changer](https://github.com/not-josue/algorithmic-design-1-java/tree/main/binaryChanger)
 - [Coffee Hour](https://github.com/not-josue/algorithmic-design-1-java/tree/main/coffeeHour)
 - [Date and Time](https://github.com/not-josue/algorithmic-design-1-java/tree/main/dateAndTime)
+- [Fleet of Vehicles](https://github.com/not-josue/algorithmic-design-1-java/tree/main/fleetOfVehicles)
 - [Matrix Addition](https://github.com/not-josue/algorithmic-design-1-java/tree/main/matrixAddition)
 - [Pothole Driving](https://github.com/not-josue/algorithmic-design-1-java/tree/main/potholeDriving)
 - [Rock, Paper, Scissors](https://github.com/not-josue/algorithmic-design-1-java/tree/main/rockPaperScissors)
