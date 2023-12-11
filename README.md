@@ -12,6 +12,7 @@ Entry level Java programs that can be found in beginner university computer scie
 - [Date and Time](https://github.com/not-josue/algorithmic-design-1-java/tree/main/dateAndTime)
 - [Fleet of Vehicles](https://github.com/not-josue/algorithmic-design-1-java/tree/main/fleetOfVehicles)
 - [Matrix Addition](https://github.com/not-josue/algorithmic-design-1-java/tree/main/matrixAddition)
+- [Peanut Butter & Jelly Sandwich](https://github.com/not-josue/algorithmic-design-1-java/tree/main/pbnjSandwich)
 - [Pothole Driving](https://github.com/not-josue/algorithmic-design-1-java/tree/main/potholeDriving)
 - [Rock, Paper, Scissors](https://github.com/not-josue/algorithmic-design-1-java/tree/main/rockPaperScissors)
 - [Sorting Rectangles](https://github.com/not-josue/algorithmic-design-1-java/tree/main/sortingRectangles)
